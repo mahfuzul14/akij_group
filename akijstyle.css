@@ -1,0 +1,713 @@
+*{margin:0;padding:0;}
+
+.topheader{background:#f1f3f4;}
+
+.lefthead {
+    width: 300px;
+    /*border: 1px solid red;*/
+    float: left;
+    padding:6px;
+}
+
+
+.lefthead span {
+    width: 77px;
+    font-weight: 100px;
+    font-size: 13px;
+    color: #918282;
+    float: left;
+}
+.lefthead .socicon {
+	font-size:14px;
+    width: 30px;
+    float: left;
+}
+
+
+.righthead {
+    width: 300px;
+    float: right;
+    border: tomato;
+    padding: 6px;
+}
+
+.righthead span {
+    font-size: 13px;
+    color: #918282;
+    float: left;
+    margin-left: 70px;
+}
+.righthead img {
+    width: 14px;
+    padding-left: 5px;
+    margin-top: -3px;
+
+}
+/*middle head start */
+
+.middlehead{
+	background:#FFFFFF;
+}
+
+
+
+.logodiv {
+    width: 332px;
+    float: left;
+}
+.phonediv {
+    width: 248px;
+    float: left;
+    margin-left: 215px;
+    padding: 17px;
+    height: 40px;
+}
+.emaildiv {
+    width: 263px;
+    float: left;
+    padding: 17px;
+    height: 40px;
+    float: right;
+}
+i.fas.fa-phone {
+    width: 24px;
+    height: 22px;
+    padding: 2px;
+    padding-top: 3px;
+    border: 1px solid tomato;
+    border-radius: 228px;
+    text-align: center;
+    color: tomato;
+	float:left;
+}
+
+
+
+i.fas.fa-envelope {
+    width: 24px;
+    height: 22px;
+    padding: 2px;
+    padding-top: 3px;
+    border: 1px solid tomato;
+    border-radius: 228px;
+    text-align: center;
+    place-items: center;
+    color: tomato;
+	float:left;
+}
+
+.phonediv2 {
+    width: 210px;
+    float: left;
+    margin-left: 8px;
+}
+.phonediv2 span {
+    width: 204px;
+    font-size: 12px;
+    display: block;
+}
+.phonediv2 a {
+    width: 150px;
+    text-decoration: none;
+    font-size: 13px;
+    text-align: left;
+    font-weight: bold;
+    margin-left: -4px;
+    line-height: 23px;
+}
+
+
+
+
+
+
+.emaildiv2 {
+    width: 210px;
+    float: left;
+    margin-left: 8px;
+}
+.emaildiv2 span {
+    width: 204px;
+    font-size: 12px;
+    display: block;
+}
+.emaildiv2 a {
+    width: 150px;
+    text-decoration: none;
+    font-size: 14px;
+    text-align: left;
+    font-weight: bold;
+    margin-left: -4px;
+    line-height: 23px;
+}
+
+
+
+.navbar{
+	background:#2E3192;
+        height: 40px;
+	
+}
+
+
+
+.munubar{
+	
+	color:white;
+	
+	
+}
+
+
+
+.munubar  li {
+    list-style: none;
+    float: left;
+    font-family: arial;
+    font-size: 12px;
+    padding-top: 11px;
+    margin-left: 35px;
+}
+.munubar  li:hover{
+	font-weight:bold;
+	 margin-left: 34px;
+	 color:#57ceff;
+}
+.manubar ul .active li {
+	font-weight:bold;
+	color:#d9e2e5;
+}
+
+
+/*topcontent start*/
+
+.topcontent{
+background: url(akijImg/Akij-Cement-Fair-Face.jpg);
+}
+.topcontent2 {
+    width: 410px;
+    float: left;
+    padding: 100px 0px 100px 0px;
+}
+
+
+.contentheading {
+    width: 359px;
+    padding: 8px;
+}
+
+.topcontent h1 {
+    font-size: 64px;
+    font-family: arial;
+    color: #f1eaea;
+    line-height: 37px;
+    text-shadow: 3px 3px 9px #2e2222;
+}
+.topcontent h2 {
+    font-size: 25px;
+	  color: #f1eaea;
+   text-shadow: 3px 3px 9px #070404;
+}
+.topcontent2 p {
+    line-height: 24px;
+    color: #383434;
+    padding-bottom: 23px;
+	font-family: emoji;
+}
+.topcontent2 button {
+    font-size: 14px;
+    padding: 10px 23px;
+    font-family: arial-block;
+    font-weight: 550;
+    border-radius: 79px;
+    border: .9px solid black;
+}
+.topcontentimg {
+    width: 700px;
+    float: left;
+    height: 430px;
+    text-align: center;
+    padding-top: 63px;
+}
+.topcontentimg img {
+    width: 521px;
+}
+
+/*middle content start*/
+
+.middlecontent {
+    background:url(akijImg/product-1.jpg);
+		
+}
+
+.middlecontentimg {
+    width: 410px;
+    float: left;
+    height: 315px;
+    text-align: center;
+    padding-top: 32px;
+}	
+
+.middlecontentimg img {
+	
+	 width: 380px;
+}
+
+.middlecontent2 {
+    width: 714px;
+    float: left;
+  padding: 80px 0px 90px 0px;
+}
+
+
+.middlecontentheading h1 {
+    color: white;
+    font-size: 30px;
+	line-height:40px;
+}
+
+.middlecontentheading h2 {
+    color: white;
+    font-size: 29px;
+}
+.middlecontent2 p {
+    line-height: 28px;
+    color: #ede6e6fc;
+} 
+
+
+.middlecontent2 button {
+    font-size: 13px;
+    padding: 8px 23px;
+    font-family: arial;
+    font-weight: 538;
+    border-radius: 79px;
+    border: .9px solid black;
+    margin-top: 14px;
+}
+
+
+/*middle2 content start*/
+
+.middle2content{
+	background:url(akijImg/product-2.jpg);
+
+}
+
+.middle2content2{
+	
+	  width: 714px;
+    float: left;
+  padding: 80px 0px 90px 0px;
+}
+
+.middle2contentimg {
+	   width: 410px;
+    float: left;
+    height: 315px;
+    text-align: center;
+    padding-top: 32px;
+	
+}
+.middle2contentimg img{
+	width:380px;
+}
+
+
+
+
+
+
+
+
+.middle2contentheading h1 {
+    color: white;
+    font-size: 30px;
+	line-height:40px;
+}
+
+.middle2contentheading h2 {
+    color: white;
+    font-size: 29px;
+}
+.middle2content2 p {
+    line-height: 28px;
+    color: #ede6e6fc;
+} 
+
+
+.middle2content2 button {
+    font-size: 13px;
+    padding: 8px 23px;
+    font-family: arial;
+    font-weight: 538;
+    border-radius: 79px;
+    border: .9px solid black;
+    margin-top: 14px;
+}
+
+
+/*middle2 content end*/
+
+
+
+
+
+
+/*middle3 content start*/
+
+.middle3content{
+	background:url(akijImg/product-3.jpg);
+
+}
+
+.middle3content2{
+	
+	  width: 714px;
+    float: left;
+  padding: 80px 0px 90px 0px;
+}
+
+.middle3contentimg {
+	   width: 410px;
+    float: left;
+    height: 315px;
+    text-align: center;
+    padding-top: 32px;
+	
+}
+.middle3contentimg img{
+	width:380px;
+}
+
+.middle3contentheading h1 {
+    color: white;
+    font-size: 30px;
+	line-height:40px;
+}
+
+.middle3contentheading h2 {
+    color: white;
+    font-size: 29px;
+}
+.middle3content2 p {
+    line-height: 28px;
+    color: #ede6e6fc;
+} 
+
+
+.middle3content2 button {
+    font-size: 13px;
+    padding: 8px 23px;
+    font-family: arial;
+    font-weight: 538;
+    border-radius: 79px;
+    border: .9px solid black;
+    margin-top: 14px;
+}
+
+
+
+/*middle3 content end*/
+
+
+
+/*middle4 content start*/
+
+
+.middle4content{
+	background:url(akijImg/product-4.jpg);
+
+}
+
+.middle4content2{
+	
+	  width: 714px;
+    float: left;
+  padding: 80px 0px 90px 0px;
+}
+
+.middle4contentimg {
+	   width: 410px;
+    float: left;
+    height: 315px;
+    text-align: center;
+    padding-top: 32px;
+	
+}
+.middle4contentimg img{
+	width:380px;
+}
+
+.middle4contentheading h1 {
+    color: white;
+    font-size: 30px;
+	line-height:40px;
+}
+
+.middle4contentheading h2 {
+    color: white;
+    font-size: 29px;
+}
+.middle4content2 p {
+    line-height: 28px;
+    color: #ede6e6fc;
+} 
+
+
+.middle4content2 button {
+    font-size: 13px;
+    padding: 8px 23px;
+    font-family: arial;
+    font-weight: 538;
+    border-radius: 79px;
+    border: .9px solid black;
+    margin-top: 14px;
+}
+
+
+
+
+/*middle4 content end*/
+
+/* bottomcontent start*/
+.bottomcontent {
+	
+	    background: #d2dced;
+		height: 540px;
+}
+
+
+.bottomcontentheading h2 {
+    text-align: -webkit-center;
+    font-family: arial;
+    padding: 40px;
+	margin: 7px 0px 16px 0px;
+}
+
+.bottomcontent1 {
+    width: 240px;
+    float: left;
+	margin-left: 56px;
+}
+.bottomcontent1 img {
+       width: 240px;
+    height: 154px;
+	border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.bottomcontent1 p {
+    width: 204px;
+    background: white;
+    padding: 26px 18px;
+    border: none;
+	border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+.bottomcontent2 {
+   width: 240px;
+    float: left;
+	margin-left: 20px;
+}
+
+.bottomcontent2 img {
+      width: 240px;
+    height: 154px;
+	border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.bottomcontent2 p {
+    width: 205px;
+    background: white;
+    padding: 18px;
+	border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+.bottomcontent3 {
+   width: 240px;
+    float: left;
+	margin-left: 20px;
+}
+
+
+.bottomcontent3 img {
+        width: 240px;
+    height: 154px;
+	border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.bottomcontent3 p {
+  width: 205px;
+    background: white;
+    padding: 28px 18px;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+
+.bottomcontent4 {
+   width: 240px;
+    float: left;
+	margin-left: 20px;
+}
+.bottomcontent4 img {
+        width: 240px;
+    height: 154px;
+	border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.bottomcontent4 p {
+   width: 205px;
+    background: white;
+    padding: 18px;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+
+
+
+.bottomcontenbtn {
+    width: 98px;
+    text-align: center;
+    margin-top: 331px;
+    border-radius: 96px !important;
+    margin-left: 515px;
+}
+.bottomcontenbtn button {
+    font-size: 14px;
+    padding: 14px 18px;
+    font-family: arial;
+    font-weight: 538;
+    border-radius: 79px;
+    border: .9px solid black;
+    margin-top: 14px;
+    background: #ed310f;
+    color: white;
+}
+
+/* bottom content end*/
+#futtersectiion {
+    background:url(akijImg/Akij-Cement-Fair-Face.jpg);
+    height: 285px;
+    /*margin-top: 20px;*/
+}
+
+.futterwraper{/* float:left; */}
+
+.futterwraper1{
+	width: 969px;
+    height: 190px;
+	margin-right: 44px !important;
+	margin-left: 91px !important;
+	margin-top: 30px !important;
+	margin-bottom: 10px;
+	overflow: hidden;
+	    
+}
+
+.container {
+    width: 1132px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+    overflow:hidden;
+   /* border: 1px solid blue;*/
+
+}
+.ft1content{
+    width: 218px;
+    height:150px !important;
+    text-align: center;
+   /* border:1px solid red;*/
+    padding: 24px 10px 9px 22px;
+    float:left;
+}
+
+.logoakij {
+    margin-bottom: 20px;
+}
+.socialicon {
+    margin-left: 39px;
+    /* margin: auto; */
+    text-align: center;
+    /* border: 1px solid red; */
+}
+
+ .socialicon a {
+    width: 40px;
+    float: left;
+    padding: 5px;
+    margin: auto;
+    font-size: 23px;
+}
+
+.ft2content{
+    width: 200px;
+    height:150px !important;
+    text-align: center;
+   /* border:1px solid red;*/
+ padding: 24px 10px 9px 22px;
+    float:left;
+}
+
+.ft3content{
+    width: 200px;
+    height:150px !important;
+    text-align: center;
+   /* border:1px solid red;*/
+ padding: 24px 10px 9px 22px;
+    float:left;
+}
+.ft4content{
+    width: 200px;
+    height:150px !important;
+    text-align: center;
+   /* border:1px solid red;*/
+  padding: 24px 10px 9px 22px;
+    float:left;
+}
+.futterwraper2{
+	/* width:1140px; */
+	width: 700px;
+	text-align: center;
+	margin: auto;
+}
+.ft5content {
+    /*border: 1px solid red;*/
+    padding: 10px;
+    font-weight: 600;
+}
+
+
+
+.futterwraper1 p{font-family:arial;
+font-size:15px;
+text-align:left;
+}
+.ft2content h2 {
+    font-size: 18px;
+    line-height: 40px;
+	 font-family:arial;
+	text-align:left;
+}
+
+.ft3content h2 {
+    font-size: 18px;
+    text-align: left;
+    line-height: 35px;
+    font-family: arial;
+}
+.ft4content h3 {
+    float: left;
+    font-size: 16px;
+    display: inline-block;
+    width: 166px;
+    line-height: 30px;
+    font-family: arial;
+    text-align: left;
+}
+
+
+
+
+
